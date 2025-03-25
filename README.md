@@ -104,11 +104,6 @@ After analyzing the dataset, several important trends were uncovered:
 - **Certain months (e.g., January 2023) had exceptionally high layoffs**, possibly due to financial planning and restructuring.
 - **The largest single layoff events were observed in major multinational companies**, particularly in the technology sector.
 
-## Future Improvements and Next Steps
-- **Integrating External Datasets**: Combining this dataset with macroeconomic indicators such as GDP trends and inflation rates could provide deeper insights into layoff patterns.
-- **Visualization Dashboards**: Creating Power BI or Tableau dashboards to present interactive data visualizations.
-- **Predictive Analysis**: Using machine learning models to predict future layoffs based on past trends and external factors.
-
 ## Conclusion
 This project demonstrates how SQL can be used for data cleaning, transformation, and analysis to derive valuable business insights. By leveraging SQL techniques, we have uncovered critical patterns in workforce layoffs over a three-year period.
 
