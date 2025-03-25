@@ -115,13 +115,11 @@ This project demonstrates how SQL can be used for data cleaning, transformation,
 The insights gained from this analysis can be used by businesses, policymakers, and researchers to understand employment trends and prepare for future workforce challenges.
 
 ## Files
-[Download Layoffs Dataset](https://github.com/yourusername/your-repo-name/raw/main/layoffs.csv)
-[SQL Cleaning Script](https://github.com/yourusername/your-repo-name/raw/main/SQL-Project-Data%20cleaning.sql)
-[SQL Analysis Script](https://github.com/yourusername/your-repo-name/raw/main/SQL-Project-Data%20analyzing.sql)
-SELECT country, SUM(total_layoffs) AS total_layoffs
-FROM layoffs_data
-GROUP BY country
-ORDER BY total_layoffs DESC;
+[Download Layoffs Dataset](https://github.com/movahed-abdolahi/SQL-projects/Files/layoffs.csv)
+
+[SQL Cleaning Script](https://github.com/movahed-abdolahi/SQL-projects/Files/SQL-Project-Data%20cleaning.sql)
+
+[SQL Analysis Script](https://github.com/movahed-abdolahi/SQL-projects/Files/SQL-Project-Data%20analyzing.sql)
 
 
 ## License
