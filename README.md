@@ -4,7 +4,7 @@ A collection of project showcasing SQL skills
 # 1: Layoffs Data Analysis (2020 - 2023)
 
 ## Overview
-This project analyzes global layoffs from March 2020 to March 2023, focusing on trends across various industries and countries. The dataset provides insights into workforce reductions during the COVID-19 pandemic and subsequent economic downturns.
+This project analyzes global layoffs from March 2020 to March 2023 (Open source dataset), focusing on trends across various industries and countries. The dataset provides insights into workforce reductions during the COVID-19 pandemic and subsequent economic downturns.
 
 Using SQL, the data has been cleaned, transformed, and analyzed to extract meaningful insights. The process involves rigorous data cleaning, handling missing values, and conducting an in-depth exploratory data analysis (EDA) using various SQL functionalities.
 
