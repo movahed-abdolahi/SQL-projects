@@ -111,7 +111,9 @@ The insights gained from this analysis can be used by businesses, policymakers, 
 
 ## Files
 [Download Layoffs Dataset](https://github.com/movahed-abdolahi/SQL-projects/Files/layoffs.csv)
+
 [SQL Cleaning Script](https://github.com/movahed-abdolahi/SQL-projects/Files/SQL-Project-Data%20cleaning.sql)
+
 [SQL Analysis Script](https://github.com/movahed-abdolahi/SQL-projects/Files/SQL-Project-Data%20analyzing.sql)
 
 
